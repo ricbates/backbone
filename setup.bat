@@ -1,3 +1,4 @@
+project: Backbone
 
 md js
 md js\lib
@@ -12,5 +13,10 @@ call bower install backbone
 call bower install modernizer
 call bower install normalize
 call bower install bootstrap
+
+echo Next run bower init...
+
+
+
 
 
