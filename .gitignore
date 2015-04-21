@@ -1,0 +1,35 @@
+node_modules/
+
+js/lib
+
+modernizr.min.js
+.DS_Store
+raw
+*.sw?
+.DS_Store
+node_modules
+bower_components
+
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+ 
+#Project files
+[Bb]uild/
+ 
+*.css
+
+/.yardoc
+/coverage
+/doc
+/pkg
+/test/rails
+/.sass-cache
+/.haml
+/.sass
+/site
+*.rbc
+/.sass
+*.lock
+

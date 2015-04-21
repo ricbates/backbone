@@ -1,0 +1,38 @@
+{
+  "name": "Backbone",
+  "version": "1.0.0",
+  "authors": [
+    "Rick Bates <rickbates@frontier.com>"
+  ],
+  "description": "Bower learning project - Udemy",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "Bower",
+    "init",
+    "install",
+    "automate",
+    "npm"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "bootstrap": "~3.3.4",
+    "normalize": "~1.0.4",
+    "modernizer": "~2.8.2",
+    "jquery": "~2.1.3",
+    "underscore": "~1.8.3"
+  }
+}
